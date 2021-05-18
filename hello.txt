@@ -11,3 +11,4 @@ hello git! this is the first test git.
 hello git! this is the first test git. master modify test
 hello git! this is the first test git. hot-fix modeify test
 this line create in gitee.
+this line create in git-demo-clone 本地库克隆修改
